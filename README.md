@@ -57,7 +57,7 @@ We have new research on Medical Machine Learning to find precious clients who ar
 
 Go ahead, medical software is an important part of Canadian hospitals and Medical schools. So why not try our solution ?
 
-Result 1:  Let us have a look of how we perform Covid-19 predictions through a few screenshots
+##Result 1:  Let us have a look of how we perform Covid-19 predictions through a few screenshots
 
 A) On our Home page (after User Login)
 
@@ -75,7 +75,7 @@ D) Otherwise we can also upload the second sick X-ray and obtain Covid-19 Diseas
 
 <img src="https://github.com/mekongsoft/healthcare-demo/blob/main/screenshots/covid193_small.png"/>
 
-Result 2: Let us have a look of how we perform an Autistic Spectrum Disorder of Children prediction through a few screenshots
+##Result 2: Let us have a look of how we perform an Autistic Spectrum Disorder of Children prediction through a few screenshots
 
 A) On our Home page (after User Login), we select Autistic Spectrum Disorder of Children
 
@@ -89,7 +89,7 @@ C) We then get the result of Autism prediction
 
 <img src="https://github.com/mekongsoft/healthcare-demo/blob/main/screenshots/autism4_small.png"/>
 
-Result 3:  Let us have a look of how we perform Pneumonia predictions through a few screenshots
+##Result 3:  Let us have a look of how we perform Pneumonia predictions through a few screenshots
 
 A) On our Home page (after User Login), we select Pneumonia
 
