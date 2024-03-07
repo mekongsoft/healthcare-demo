@@ -10,7 +10,7 @@ Please sign up for a new trial user / password to try our Medical product,
 
 Using our newly launched public link above, after signing up for a new user, then please check your email for a new activation email then paying our software trial fee for $1 (that will be just for our software Azure Cloud expense during your expected usage, we do not charge you for software services), then you will use our Healthcare of all 12 diseases as below description. You can cancel your trial any time and you will not be charged if you do not upgrade to a normal plan (we will not charge you.)
 
-![Homepage]([/screenshots/](https://github.com/mekongsoft/healthcare-demo/blob/main/screenshots/homepage.png))
+<img src="https://github.com/mekongsoft/healthcare-demo/blob/main/screenshots/homepage.png"/>
 
 Please remember to check your Spam folder because sometimes the payment link is listed as spam from email providers. The payment form simply looks like
 
