@@ -1,21 +1,9 @@
 # healthcare-demo
 Demo Data for online Foghlaim Meaisin Healthcare prediction
 
-The Foghlaim Meaisin Software recently launched the Foghlaim Meaisin Healthcare software here
+The Foghlaim Meaisin Software recently launched the Foghlaim Meaisin Healthcare software
 
-https://healthcare.foghlaimmeaisin.com/
-
-We would like to invite you to participate in our event.
-
-Please sign up for a new trial user / password to try our Medical product,
-
-Using our newly launched public link above, after signing up for a new user, then please check your email for a new activation email then paying our software trial fee for $1 (that will be just for our software Azure Cloud expense during your expected usage, we do not charge you for software services), then you will use our Healthcare of all 12 diseases as below description. You can cancel your trial any time and you will not be charged if you do not upgrade to a normal plan (we will not charge you.)
-
-Please remember to check your Spam folder because sometimes the payment link is listed as spam from email providers. The payment form simply looks like
-
-<img src="https://github.com/mekongsoft/healthcare-demo/blob/main/screenshots/paymentlink.png"/>
-
-No worry, we are a good company here
+Our homepage is ere
 
 https://foghlaimmeaisin.com/
 
@@ -113,18 +101,6 @@ This is how it looks on your Samsung
 
 <img src="https://github.com/mekongsoft/healthcare-demo/blob/main/screenshots/samsung.png"/>
 
-This Machine Learning software is open for trial usage around 1 USD trial price to try the Machine Learning activities,
-
-https://healthcare.foghlaimmeaisin.com/
-
-with demo data from here
+This Repo is for Markerting Demo tasks.
 
 https://github.com/mekongsoft/healthcare-demo
-
-We would like to appreciate your kindness,
-
-Sincerely yours,
-
-Foghlaim Meaisin.
-
-https://foghlaimmeaisin.com/
