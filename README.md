@@ -3,7 +3,7 @@ Demo Data for online Foghlaim Meaisin Healthcare prediction
 
 The Foghlaim Meaisin Software recently launched the Foghlaim Meaisin Healthcare software
 
-Our homepage is ere
+Our homepage is here
 
 https://foghlaimmeaisin.com/
 
