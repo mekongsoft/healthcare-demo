@@ -104,3 +104,5 @@ This is how it looks on your Samsung
 This Repo is for Markerting Demo tasks.
 
 https://github.com/mekongsoft/healthcare-demo
+
+COPYRIGHT@2024 OF FOGHLAIM MEAISIN SOFTWARE, CALGARY, ALBERTA, CANADA.
