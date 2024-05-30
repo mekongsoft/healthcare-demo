@@ -15,7 +15,7 @@ We enhanced our automatic disease predictions to 12 diseases while current softw
 
 We now have launched Covid-19, Skin Cancer and Tuberculosis, in which Skin Cancer now includes 7 types: Actinic Keratoses, Basal Cell Carcinoma, Benign Keratosis-like Lesions, Dermatofibroma, Melanoma, Melanocytic Nevi and Vascular Lesions.
 
-So if you are interested in researching our newest medical diagnosis system that is currently open for trial usage with $1 dollar trial price. So now we are 
+So now we are here:
 
 I) Autistic Spectrum Disorder of Prediction Accuracy: 97%
 
