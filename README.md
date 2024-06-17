@@ -101,7 +101,7 @@ This is how it looks on your Samsung
 
 <img src="https://github.com/mekongsoft/healthcare-demo/blob/main/screenshots/samsung.png"/>
 
-This Repo is for Markerting Demo tasks.
+This Repo is for Marketing Demo tasks.
 
 https://github.com/mekongsoft/healthcare-demo
 
